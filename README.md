@@ -1,18 +1,27 @@
-<h2 align="center">My Contribution Journey</h2>
+<p align="center">
+  <img src="./assets/hero-banner.gif" width="100%" alt="banner" />
+</p>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ariefzzz5421/ariefzzz5421/output/github-contribution-grid-snake-dark.svg"
-  />
+<h1 align="center">Ariefz</h1>
+<p align="center">
+  Trader • Builder • Researcher
+</p>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ariefzzz5421/ariefzzz5421/output/github-contribution-grid-snake.svg"
-  />
+---
 
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/ariefzzz5421/ariefzzz5421/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+### About Me
+- Crypto, macro, app building
+- Interested in systems, psychology, anthropology
+- Building tools and learning in public
+
+---
+
+### My Contribution Journey
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ariefzzz5421/ariefzzz5421/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ariefzzz5421/ariefzzz5421/output/github-snake-light.svg" />
+    <img alt="github snake" src="https://raw.githubusercontent.com/ariefzzz5421/ariefzzz5421/output/github-snake.svg" />
+  </picture>
+</p>
